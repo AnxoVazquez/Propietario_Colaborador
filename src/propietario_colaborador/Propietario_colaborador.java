@@ -17,6 +17,7 @@ public class Propietario_colaborador {
     public static void main(String[] args) {
         int prueba=2;
         int hola= 1234;
+        int arpontorpedo = 21312312;
     }
     
 }
